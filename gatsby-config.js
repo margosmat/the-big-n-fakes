@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/the-big-n-fakes",
   siteMetadata: {
     title: `The big N (fakes)`,
     author: {
@@ -9,7 +10,7 @@ module.exports = {
     social: {
       twitter: `margosmat`,
       instagram: `margosmat`
-    },
+    }
   },
   plugins: [
     `gatsby-plugin-image`,
