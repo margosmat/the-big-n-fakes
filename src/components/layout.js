@@ -11,7 +11,7 @@ const Layout = ({ location, title, children }) => {
     header = (
       <Link to="/">
         <StaticImage
-          // className="bio-avatar"
+          className="logo"
           layout="fixed"
           formats={["AUTO", "WEBP", "AVIF"]}
           src="../images/logo.png"

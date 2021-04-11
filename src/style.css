@@ -335,3 +335,19 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+@media (max-width: 630px) {
+  .logo {
+    width: 420px !important;
+    height: 190px !important;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 420px) {
+  .logo {
+    width: 240px !important;
+    height: 120px !important;
+    margin: 0 auto;
+  }
+}
