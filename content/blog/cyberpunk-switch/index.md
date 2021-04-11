@@ -4,7 +4,7 @@ date: "2021-04-01T12:12:03.284Z"
 description: "🤯"
 ---
 
-Biegać po pustych ulicach Night City podczas siedzenia na sedesie mamy doświadczyć już w pierwszym kwartale 2022!
+Biegania po pustych ulicach Night City podczas siedzenia na sedesie mamy doświadczyć już w pierwszym kwartale 2022!
 
 ![Cyberpunk 2077 low poly guy screenshot](./low-poly-cp2077-guy.jpg)
 

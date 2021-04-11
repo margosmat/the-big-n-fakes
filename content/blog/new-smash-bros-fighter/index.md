@@ -21,4 +21,4 @@ Kubaka będzie oferował kilka ciosów, których jeszcze nie widzieliśmy w grze
 
 ## Kolejne zaskoczenia
 
-Oprócz ogłoszenia nowego fightera fani Smash Bros. mogli objerzeć wejście w kolejny poziom mistrzostwa Mr. Sakurai. Prezentację prowadził bowiem grając **CZTEREMA** postaciami naraz, używając do dwóch dodatkowych fighterów swoich stóp.
+Oprócz ogłoszenia nowego fightera fani Smash Bros. mogli obejrzeć wejście w kolejny poziom mistrzostwa Mr. Sakurai. Prezentację prowadził bowiem grając **CZTEREMA** postaciami naraz, używając do dwóch dodatkowych fighterów swoich stóp.
