@@ -4,7 +4,7 @@ module.exports = {
     author: {
       name: `Mateusz Margos`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Small site with few Nintendo-related fake news`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `margosmat`,
